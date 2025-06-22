@@ -6,8 +6,7 @@ StyleSphere is a fully animated, 3D-enabled fashion eCommerce website built usin
 
 ## 🚀 Live Demo
 
-[🔗 View Live Site](https://your-live-site-link.com)  
-[📦 GitHub Repository](https://github.com/your-username/stylesphere-ecommerce)
+[🔗 View Live Site](stylesphere-emq1aru6z-zain-jadoons-projects.vercel.app)  
 
 ---
 
